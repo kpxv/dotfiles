@@ -2419,17 +2419,17 @@ config.bind(
 )
 config.bind(
     ",f",
-    'hint links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open" {hint-url}',
+    'hint links spawn --userscript ~/.config/qutebrowser/userscripts/url-mutator/url_mutator.py /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open" {hint-url}',
     mode="normal",
 )
 config.bind(
     ",F",
-    'hint links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open -b" {hint-url}',
+    'hint links spawn --userscript ~/.config/qutebrowser/userscripts/url-mutator/url_mutator.py /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open -b" {hint-url}',
     mode="normal",
 )
 config.bind(
     ",;r",
-    'hint --rapid links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open -b" {hint-url}',
+    'hint --rapid links spawn --userscript url-mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open -b" {hint-url}',
     mode="normal",
 )
 config.bind(",ed", "config-edit", mode="normal")

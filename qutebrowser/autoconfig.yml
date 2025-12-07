@@ -13,13 +13,7 @@ settings:
         <Ctrl+w>: fake-key <Ctrl-Backspace>
       normal:
         ',;i': hint images download
-        ',;r': hint --rapid links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml
-          "open -b" {hint-url}
-        ',F': hint links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml
-          "open -b" {hint-url}
         ',M': hint links spawn mpv {hint-url}
-        ',f': hint links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml
-          "open" {hint-url}
         '0': fake-key 0
         <Ctrl+o>: fake-key
         F: hint all tab
