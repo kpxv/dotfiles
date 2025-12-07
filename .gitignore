@@ -1,31 +1,39 @@
 /1Password/
 /Apple\ Music/
 /BraveSoftware/
-/cef_user_data/
-/chromium/
 /Code/
 /Code\ -\ OSS/
-/dconf/
-/discord/
 /Electron/
 /FTB\ Electron\ App/
-/gh/
 /GIMP/
+/Kiwix/
+/Meltytech/
+/QtProject.conf
+/QtProject/
+/Signal/
+/Slack/
+/Thunar/
+/Unknown\ Organization/
+/vesktop
+/VirtualBox/
+/cef_user_data/
+/chromium/
+/dconf/
+/discord/
+/gh/
 /glib-2.0/
 /go/
-/google-chrome/
 /google-chrome-beta/
 /google-chrome-unstable/
+/google-chrome/
 /gtk-2.0/
 /gtk-3.0/
 /gtk-4.0/
 /heroic/
 /ibus/
-/Kiwix/
 /libreoffice/
 /lunarclient/
 /matplotlib/
-/Meltytech/
 /menus/
 /microsoft-edge-dev/
 /modorganizer2/
@@ -35,20 +43,13 @@
 /procps/
 /protonmail/
 /pulse/
-/QtProject/
-/QtProject.conf
 /rclone/
-/Signal/
 /simple-update-notifier/
-/Slack/
 /spotify/
-/Thunar/
 /torbrowser/
 /unity3d/
-/Unknown\ Organization/
-/VirtualBox/
-/vivaldi/
 /vivaldi-snapshot/
+/vivaldi/
 /xfce4/
 /yay/
 /zoom.conf

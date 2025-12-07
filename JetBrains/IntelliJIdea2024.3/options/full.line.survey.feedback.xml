@@ -1,9 +1,0 @@
-<application>
-  <component name="FeedbackSurveyState">
-    <languageToSessions>
-      <entry language="JAVA" sessions-count="49" />
-    </languageToSessions>
-    <option name="isNotificationShown" value="true" />
-    <option name="acceptedCompletionsCnt" value="33" />
-  </component>
-</application>

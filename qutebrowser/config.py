@@ -17,7 +17,13 @@ config.load_autoconfig(True)
 ## Aliases for commands. The keys of the given dictionary are the
 ## aliases, while the values are the commands they map to.
 ## Type: Dict
-c.aliases = {'w': 'session-save', 'q': 'close', 'qa': 'quit', 'wq': 'quit --save', 'wqa': 'quit --save'}
+c.aliases = {
+    "w": "session-save",
+    "q": "close",
+    "qa": "quit",
+    "wq": "quit --save",
+    "wqa": "quit --save",
+}
 
 ## Time interval (in milliseconds) between auto-saves of
 ## config/cookies/etc.
@@ -53,7 +59,7 @@ c.auto_save.session = False
 ## Valid values:
 ##   - webengine: Use QtWebEngine (based on Chromium - recommended).
 ##   - webkit: Use QtWebKit (based on WebKit, similar to Safari - many known security issues!).
-c.backend = 'webengine'
+c.backend = "webengine"
 
 ## Map keys to other keys, so that they are equivalent in all modes. When
 ## the key used as dictionary-key is pressed, the binding for the key
@@ -526,7 +532,7 @@ c.colors.webpage.darkmode.enabled = True
 ##   - never: Never apply dark mode filter to any images.
 ##   - smart: Apply dark mode based on image content. Not available with Qt 5.15.0.
 ##   - smart-simple: On QtWebEngine 6.6, use a simpler algorithm for smart mode (based on numbers of colors and transparency), rather than an ML-based model. Same as 'smart' on older QtWebEnigne versions.
-# c.colors.webpage.darkmode.policy.images = 'smart'
+c.colors.webpage.darkmode.policy.images = "never"
 
 ## Which pages to apply dark mode to. The underlying Chromium setting has
 ## been removed in QtWebEngine 5.15.3, thus this setting is ignored
@@ -563,7 +569,7 @@ c.colors.webpage.darkmode.enabled = True
 ##   - auto: Use the system-wide color scheme setting.
 ##   - light: Force a light theme.
 ##   - dark: Force a dark theme.
-c.colors.webpage.preferred_color_scheme = 'dark'
+c.colors.webpage.preferred_color_scheme = "dark"
 
 ## Number of commands to save in the command history. 0: no history / -1:
 ## unlimited
@@ -672,7 +678,11 @@ c.colors.webpage.preferred_color_scheme = 'dark'
 ## extracting it from the `location` parameter of the subscribe URL and
 ## URL-decoding it).
 ## Type: List of Url
-c.content.blocking.adblock.lists = ['https://easylist.to/easylist/easylist.txt', 'https://easylist.to/easylist/easyprivacy.txt', 'https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt']
+c.content.blocking.adblock.lists = [
+    "https://easylist.to/easylist/easylist.txt",
+    "https://easylist.to/easylist/easyprivacy.txt",
+    "https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt",
+]
 
 ## Enable the ad/host blocker
 ## Type: Bool
@@ -694,7 +704,9 @@ c.content.blocking.hosts.block_subdomains = True
 ## lists.  The file `~/.config/qutebrowser/blocked-hosts` is always read
 ## if it exists.
 ## Type: List of Url
-c.content.blocking.hosts.lists = ['https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts']
+c.content.blocking.hosts.lists = [
+    "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+]
 
 ## Which method of blocking ads should be used.  Support for Adblock Plus
 ## (ABP) syntax blocklists using Brave's Rust library requires the
@@ -707,7 +719,7 @@ c.content.blocking.hosts.lists = ['https://raw.githubusercontent.com/StevenBlack
 ##   - adblock: Use Brave's ABP-style adblocker
 ##   - hosts: Use hosts blocking
 ##   - both: Use both hosts blocking and Brave's ABP-style adblocker
-c.content.blocking.method = 'both'
+c.content.blocking.method = "both"
 
 ## A list of patterns that should always be loaded, despite being blocked
 ## by the ad-/host-blocker. Local domains are always exempt from
@@ -1211,7 +1223,7 @@ c.content.prefers_reduced_motion = True
 ## `{line0}`: Same as `{line}`, but starting from index 0. * `{column0}`:
 ## Same as `{column}`, but starting from index 0.
 ## Type: ShellCommand
-c.editor.command = ['alacritty', '-e', 'nvim', '{file}']
+c.editor.command = ["foot", "nvim", "{file}"]
 
 ## Encoding to use for the editor.
 ## Type: Encoding
@@ -1285,7 +1297,7 @@ c.editor.command = ['alacritty', '-e', 'nvim', '{file}']
 ## either a float value with a "pt" suffix, or an integer value with a
 ## "px" suffix.
 ## Type: String
-c.fonts.default_size = '8pt'
+c.fonts.default_size = "8pt"
 
 ## Font used for the downloadbar.
 ## Type: Font
@@ -1392,7 +1404,7 @@ c.fonts.web.size.default = 16
 
 ## Characters used for hint strings.
 ## Type: UniqueCharString
-# c.hints.chars = 'aoeuidhtns'
+c.hints.chars = "aoeuidhtns"
 
 ## Dictionary file to be used by the word hints.
 ## Type: File
@@ -1444,7 +1456,7 @@ c.hints.radius = 0
 ## Scatter hint key chains (like Vimium) or not (like dwb). Ignored for
 ## number hints.
 ## Type: Bool
-# c.hints.scatter = True
+c.hints.scatter = True
 
 ## CSS selectors used to determine which elements on a page should have
 ## hints.
@@ -2118,7 +2130,7 @@ c.keyhint.radius = 0
 ## Page to open if :open -t/-b/-w is used without URL. Use `about:blank`
 ## for a blank page.
 ## Type: FuzzyUrl
-c.url.default_page = 'about:blank'
+c.url.default_page = "about:blank"
 
 ## URL segments where `:navigate increment/decrement` will search for a
 ## number.
@@ -2155,11 +2167,21 @@ c.url.default_page = 'about:blank'
 ## the search engine name to the search term, e.g. `:open google
 ## qutebrowser`.
 ## Type: Dict
-# c.url.searchengines = {'DEFAULT': 'https://duckduckgo.com/?q={}'}
+c.url.searchengines = {
+    "DEFAULT": "https://duckduckgo.com/?q={}",
+    # "DEFAULT": "https://www.mojeek.com/search?q={}&theme=dark&t=40&tn=0&size=1&ib=0&sumt=0&sumb=0&hp=minimal&rp_i=0",
+    ";s": "https://searx.bndkt.io/?q={}",
+    ";def": "https://www.thefreedictionary.com/{}",
+    ";al": "https://wiki.archlinux.org/index.php?search={}",
+    ";w": "https://wiki.warframe.com/?search={}",
+    ";fren": "https://www.wordreference.com/fren/{}",
+    ";enfr": "https://www.wordreference.com/enfr/{}",
+    ";conj": "https://www.wordreference.com/conj/frverbs.aspx?v={}",
+}
 
 ## Page(s) to open at the start.
 ## Type: List of FuzzyUrl, or FuzzyUrl
-c.url.start_pages = ['about:blank']
+c.url.start_pages = ["about:blank"]
 
 ## URL parameters to strip when yanking a URL.
 ## Type: List of String
@@ -2186,7 +2208,7 @@ c.url.start_pages = ['about:blank']
 
 ## Default zoom level.
 ## Type: Perc
-c.zoom.default = '90%'
+c.zoom.default = "90%"
 
 ## Available zoom levels.
 ## Type: List of Perc
@@ -2390,7 +2412,28 @@ c.zoom.default = '90%'
 # config.bind('yy', 'yank')
 # config.bind('{{', 'navigate prev -t')
 # config.bind('}}', 'navigate next -t')
-config.bind('pw', 'spawn --userscript qute-keepassxc --key 4F58AB88546F4F13CB438E72D32D7DDE67071E29', mode='normal')
+config.bind(
+    "pw",
+    "spawn --userscript qute-keepassxc --key 4F58AB88546F4F13CB438E72D32D7DDE67071E29",
+    mode="normal",
+)
+config.bind(
+    ",f",
+    'hint links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open" {hint-url}',
+    mode="normal",
+)
+config.bind(
+    ",F",
+    'hint links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open -b" {hint-url}',
+    mode="normal",
+)
+config.bind(
+    ",;r",
+    'hint --rapid links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open -b" {hint-url}',
+    mode="normal",
+)
+config.bind(",ed", "config-edit", mode="normal")
+config.bind("0", "fake-key 0", mode="normal")
 
 ## Bindings for caret mode
 # config.bind('$', 'move-to-end-of-line', mode='caret')
@@ -2469,7 +2512,16 @@ config.bind('pw', 'spawn --userscript qute-keepassxc --key 4F58AB88546F4F13CB438
 # config.bind('<Escape>', 'mode-leave', mode='insert')
 # config.bind('<Shift-Escape>', 'fake-key <Escape>', mode='insert')
 # config.bind('<Shift-Ins>', 'insert-text -- {primary}', mode='insert')
-config.bind('<Alt-K>', 'spawn --userscript qute-keepassxc --key 4F58AB88546F4F13CB438E72D32D7DDE67071E29', mode='insert')
+config.bind(
+    "<Alt-K>",
+    "spawn --userscript qute-keepassxc --key 4F58AB88546F4F13CB438E72D32D7DDE67071E29",
+    mode="insert",
+)
+config.bind(
+    "<Ctrl-W>",
+    "fake-key <Ctrl-Backspace>",
+    mode="insert",
+)
 
 ## Bindings for passthrough mode
 # config.bind('<Shift-Escape>', 'mode-leave', mode='passthrough')

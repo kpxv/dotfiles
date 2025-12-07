@@ -1,0 +1,8 @@
+[options]
+overlay = true
+overlay_font = Monospace:12
+overlay_position_bottom = true
+
+[binds]
+n = next
+p = prev
