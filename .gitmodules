@@ -13,3 +13,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = git@github.com:katarafett/alacritty.git
+[submodule "qutebrowser/userscripts/url-mutator"]
+	path = qutebrowser/userscripts/url-mutator
+	url = https://codeberg.org/mister_monster/qutebrowser-url-mutator/

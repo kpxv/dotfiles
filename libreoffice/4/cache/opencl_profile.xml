@@ -4,13 +4,13 @@
  <device>
   <type>opencl</type>
   <name>gfx1031</name>
-  <driver>3649.0 (HSA1.1,LC)</driver>
-  <time>5837</time>
+  <driver>3662.0 (HSA1.1,LC)</driver>
+  <time>5463</time>
   <errors>false</errors>
  </device>
  <device>
   <type>native</type>
-  <time>1812480</time>
+  <time>1798656</time>
   <errors>false</errors>
  </device>
 </profile>

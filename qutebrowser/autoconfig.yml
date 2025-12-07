@@ -6,6 +6,35 @@
 
 config_version: 2
 settings:
+  bindings.commands:
+    global:
+      insert:
+        <Alt+k>: spawn --userscript qute-keepassxc --key 4F58AB88546F4F13CB438E72D32D7DDE67071E29
+        <Ctrl+w>: fake-key <Ctrl-Backspace>
+      normal:
+        ',;i': hint images download
+        ',;r': hint --rapid links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml
+          "open -b" {hint-url}
+        ',F': hint links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml
+          "open -b" {hint-url}
+        ',M': hint links spawn mpv {hint-url}
+        ',f': hint links spawn --userscript url_mutator /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml
+          "open" {hint-url}
+        '0': fake-key 0
+        <Ctrl+o>: fake-key
+        F: hint all tab
+        f: hint
+        o: cmd-set-text -s :open
+        pw: spawn --userscript qute-keepassxc --key 4F58AB88546F4F13CB438E72D32D7DDE67071E29
+        wu: undo --window
+  content.javascript.clipboard:
+    https://github.com: access-paste
+  content.notifications.enabled:
+    https://coub.com: false
+    https://warframe.market: true
+    https://www.netflix.com: false
+  content.unknown_url_scheme_policy:
+    global: allow-from-user-interaction
   editor.command:
     global:
     - alacritty
@@ -18,3 +47,5 @@ settings:
     global: 10
   input.spatial_navigation:
     global: false
+  tabs.position:
+    global: top

@@ -1,17 +1,75 @@
-filter 
 add single/
+filter 
+filter play_count>10
+filter play_count=0
+filter pl_count=00
+reshuffle 
+view 1
+sort path
+set lib_sort=albumartist date album discnumber tracknumber title filename play_count
+set lib_sort=
+set sort_order
+set lib_sort=play_count albumartist date album discnumber tracknumber title filename play_count
+set lib_sort
+sort
+sort play_count
+filter play_count>5
+live-filter play_count>5
+filter play_count>1
+filter play_count>0
+update-cache 
+live-fil
+filter playcount=0
+live-filter 
+set progress_bar=line
+set progress_bar=shuttle
+set progress_bar=color
+set progress_bar=color_shuttle
+set play_sorted=false
+set play_sorted=shuttle
+set 
+set smart_artist_sort=false
+res
+a
+shell 
+add staging/scrp_thumbs.mka
+add staging/scrp_thums.mka
+add staging/lumi_how-its-done.opus
+add staging/lumi_how-its-done.m4a
+rescan
+add single/lumi_how-its-done.mka
+q
+plug
+plugins
+a si
+refresh 
+add staging/koyu_motivational-bass-1.new.opus
+add single/koyu_motivational-bass-1.ogg
+add koyu_motivational-bass-1.ogg
+add .
+a 
+d
+cd
+lqueue
+pl-import playlists/public
+pl-create rpt
+h win-add-p
+colorscheme spotify
+colorscheme kanagawa
+colorscheme itunes-like
+filter
+filter unheard
+pl-create vile
+a sii
 pl-create Awaria
 pl-create Helltaker
-update-cache 
 pl-create Voidreckon
 pl-create Disconnect
 add aria_nightcore-gaming-mix-2021.ogg
-a
 pl-create THE INSIDE OUTTAKES
 pl-create The NOexistenceN of you AND me
 pl-create sett
 pl-create 
-q
 a single
 pl-export ade-pat
 pl-export WorksyDaisy
@@ -28,7 +86,6 @@ pl-delete BABYMETAL
 pl-delete Aviators
 pl-delete Linkin Park
 pl-delete
-cd
 refresh
 h cache
 add album/
@@ -43,10 +100,8 @@ pl-create Aviators
 pl-create BABYMETAL
 p-new
 new
-colorscheme spotify
 colorscheme amazon
 a .
-add .
 add lib/single/crcs_circus-monster.ogg
 add lib/single/
 update-cache
@@ -71,8 +126,6 @@ add
 win-bottom
 a ~/audio/lib/album
 a ~/audio/lib/single
-colorscheme kanagawa
-colorscheme itunes-like
 colo spotify
 colorscheme zenburn
 colorscheme solarized-dark
@@ -98,4 +151,3 @@ h w
 aoeusnthaoeu
 save
 w
-live-filter 

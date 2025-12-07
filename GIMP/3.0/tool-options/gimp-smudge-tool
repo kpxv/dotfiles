@@ -1,12 +1,12 @@
 # GIMP gimp-smudge-tool options
 
-(brush "2. Hardness 050")
+(brush "1. Pixel")
 (dynamics "Pressure Size")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
 (palette "Color History")
-(brush-size 51)
-(brush-hardness 0.5)
+(brush-size 3)
+(brush-spacing 0.20000000000000001)
 (dynamics-enabled no)
 
 # end of gimp-smudge-tool options

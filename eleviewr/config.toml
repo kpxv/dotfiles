@@ -1,0 +1,9 @@
+[keybinds]
+PreviousImage = "h, Left"
+NextImage = "l, Right"
+Exit = "Escape"
+SetWallpaper = "W"
+DeleteImage = "D"
+ConfirmDelete = "Y"
+CancelDelete = "N, Escape"
+AlwaysDelete = "A"

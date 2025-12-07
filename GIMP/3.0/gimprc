@@ -7,10 +7,11 @@
 # Preferences dialog.
 
 (prev-language "American English")
-(config-version "3.0.2")
+(config-version "3.0.4")
 (import-raw-plug-in "${gimp_plug_in_dir}/plug-ins/file-raw-placeholder/file-raw-placeholder")
 (monitor-xresolution 108)
 (monitor-yresolution 108)
+(layer-new-name "shapes")
 (fill-options
     (style fg-color)
     (custom-style solid-color)
