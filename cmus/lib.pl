@@ -316,6 +316,7 @@
 /home/main/audio/lib/single/crj0_call-me-maybe.ogg
 /home/main/audio/lib/single/csca_everytime-we-touch.opus
 /home/main/audio/lib/single/cwrp_asthma.ogg
+/home/main/audio/lib/single/cbd0_the-devil-went-down-to-georgia.opus
 /home/main/audio/lib/single/cher_believe.ogg
 /home/main/audio/lib/single/cgrm_just-a-dream.ogg
 /home/main/audio/lib/single/lark_enter-pharloom.flac
@@ -581,8 +582,10 @@
 /home/main/audio/lib/single/lipa_love-again.ogg
 /home/main/audio/lib/single/lipa_new-rules.ogg
 /home/main/audio/lib/single/duke_in-a-sentimental-mood.ogg
+/home/main/audio/lib/single/edvm_your-idol.opus
 /home/main/audio/lib/single/egpc_white-rabbit.ogg
 /home/main/audio/lib/single/eldn_elden-ring.ogg
+/home/main/audio/lib/single/ecby_revery.opus
 /home/main/audio/lib/single/elo0_last-train-to-london.ogg
 /home/main/audio/lib/single/elo0_mr-blue-sky.ogg
 /home/main/audio/lib/single/eltn_im-still-standing.ogg
@@ -722,6 +725,9 @@
 /home/main/audio/lib/single/jcsh_folsom-prison-blues.ogg
 /home/main/audio/lib/single/jcsh_hurt.ogg
 /home/main/audio/lib/single/jcsh_i-walk-the-line.ogg
+/home/main/audio/lib/single/jong_arc-raiders-ii.opus
+/home/main/audio/lib/single/jong_dr-feelgood.opus
+/home/main/audio/lib/single/jong_revery.opus
 /home/main/audio/lib/single/jong_what-it-sounds-like.opus
 /home/main/audio/lib/single/jwm0_crazy-train.ogg
 /home/main/audio/lib/single/jrny_dont-stop-believin.ogg
@@ -1245,6 +1251,7 @@
 /home/main/audio/lib/single/syrx_legendary.ogg
 /home/main/audio/lib/single/syrx_naughty-naughty.ogg
 /home/main/audio/lib/single/swft_anti-hero.opus
+/home/main/audio/lib/single/swft_look-what-you-made-me-do.opus
 /home/main/audio/lib/single/swft_wildest-dreams.opus
 /home/main/audio/lib/single/tff0_everybody-wants-to-rule-the-world.ogg
 /home/main/audio/lib/single/tff0_shout.ogg
@@ -1270,6 +1277,7 @@
 /home/main/audio/lib/single/crnb_when-youre-gone.ogg
 /home/main/audio/lib/single/crnb_zombie.ogg
 /home/main/audio/lib/single/fas0_celestial-skies.ogg
+/home/main/audio/lib/single/ftrt_love-it-when-you-hurt-me.opus
 /home/main/audio/lib/single/ftrt_the-storm.ogg
 /home/main/audio/lib/single/fray_how-to-save-a-life.ogg
 /home/main/audio/lib/single/gshw_the-greatest-show.ogg
@@ -1356,6 +1364,7 @@
 /home/main/audio/lib/single/wdns_paint-it-black.ogg
 /home/main/audio/lib/single/wbfd_you-monster.ogg
 /home/main/audio/lib/single/wlim_scream-and-shout.ogg
+/home/main/audio/lib/single/wgtn_marble-machine.mp3
 /home/main/audio/lib/single/wwka_rollin-girl.ogg
 /home/main/audio/lib/single/wwka_unknown-mother-goose.ogg
 /home/main/audio/lib/single/wwka_worlds-end-dancehall.ogg
