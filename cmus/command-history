@@ -1,9 +1,13 @@
+q
 add single/
+reshuffle 
 filter 
+filter F
+filter play_count>40
+filter play_count>440
 filter play_count>10
 filter play_count=0
 filter pl_count=00
-reshuffle 
 view 1
 sort path
 set lib_sort=albumartist date album discnumber tracknumber title filename play_count
@@ -38,7 +42,6 @@ add staging/lumi_how-its-done.opus
 add staging/lumi_how-its-done.m4a
 rescan
 add single/lumi_how-its-done.mka
-q
 plug
 plugins
 a si
