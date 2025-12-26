@@ -5,6 +5,8 @@ alias rtop='radeontop -c'
 alias -g rename="perl-rename"
 alias -g noerr='2> /dev/null'
 
+alias vexcom="/home/main/.vscode/extensions/vexrobotics.vexcode-0.7.2025041600/resources/tools/vexcom/linux-x64/vexcom"
+
 # Command sequences
 
 alias mt-crypt="sudo cryptsetup open /dev/sda3 ncrypt && sudo mount /dev/mapper/ncrypt ~/ncrypt"

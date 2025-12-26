@@ -992,6 +992,7 @@
 /home/main/audio/lib/single/lumi_takedown-soft.opus
 /home/main/audio/lib/single/lumi_voices-strong.opus
 /home/main/audio/lib/single/lumi_voices-strong-acoustic.opus
+/home/main/audio/lib/single/lumi_what-it-sounds-like.opus
 /home/main/audio/lib/single/lumi_what-it-sounds-like-acoustic.opus
 /home/main/audio/lib/single/lumi_your-idol.opus
 /home/main/audio/lib/single/ldbd_arabian-nights.ogg
@@ -1013,6 +1014,7 @@
 /home/main/audio/lib/single/mbry_1-4.ogg
 /home/main/audio/lib/single/mbry_insanity.ogg
 /home/main/audio/lib/single/mtlc_enter-sandman.ogg
+/home/main/audio/lib/single/mtlc_master-of-puppets.opus
 /home/main/audio/lib/single/mtlc_one.ogg
 /home/main/audio/lib/single/mtlc_the-unforgiven.ogg
 /home/main/audio/lib/single/mtrs_take-me.ogg
@@ -1109,6 +1111,7 @@
 /home/main/audio/lib/single/nrva_come-as-you-are.opus
 /home/main/audio/lib/single/nrva_dumb.opus
 /home/main/audio/lib/single/nrva_smells-like-teen-spirit.ogg
+/home/main/audio/lib/single/nrva_something-in-the-way.opus
 /home/main/audio/lib/single/nexn_a-joyful-moment.flac
 /home/main/audio/lib/single/nexn_battle-of-the-demon-king.flac
 /home/main/audio/lib/single/nexn_crisis-beyond-the-world.flac
