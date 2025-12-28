@@ -984,6 +984,7 @@
 /home/main/audio/lib/single/live_lightning-crashes.ogg
 /home/main/audio/lib/single/lotr_misty-mountains.ogg
 /home/main/audio/lib/single/lotr_where-theres-a-whip.opus
+/home/main/audio/lib/single/lscg_promentory.opus
 /home/main/audio/lib/single/fnsi_despacito.ogg
 /home/main/audio/lib/single/grhm_7-years.ogg
 /home/main/audio/lib/single/lumi_how-its-done.opus
@@ -1013,6 +1014,7 @@
 /home/main/audio/lib/single/chlm_yareli-waverider.ogg
 /home/main/audio/lib/single/mbry_1-4.ogg
 /home/main/audio/lib/single/mbry_insanity.ogg
+/home/main/audio/lib/single/mhwk_promentory.opus
 /home/main/audio/lib/single/mtlc_enter-sandman.ogg
 /home/main/audio/lib/single/mtlc_master-of-puppets.opus
 /home/main/audio/lib/single/mtlc_one.ogg
@@ -1110,6 +1112,7 @@
 /home/main/audio/lib/single/ntnd_zelda-main-theme.ogg
 /home/main/audio/lib/single/nrva_come-as-you-are.opus
 /home/main/audio/lib/single/nrva_dumb.opus
+/home/main/audio/lib/single/nrva_rape-me.opus
 /home/main/audio/lib/single/nrva_smells-like-teen-spirit.ogg
 /home/main/audio/lib/single/nrva_something-in-the-way.opus
 /home/main/audio/lib/single/nexn_a-joyful-moment.flac
@@ -1352,6 +1355,7 @@
 /home/main/audio/lib/single/mchn_dark-side.ogg
 /home/main/audio/lib/single/mchn_prejudice.ogg
 /home/main/audio/lib/single/mchn_storm.ogg
+/home/main/audio/lib/single/tguo_promentory.opus
 /home/main/audio/lib/single/tbfx_megalovania.ogg
 /home/main/audio/lib/single/toto_africa.ogg
 /home/main/audio/lib/single/thou_necromantic.ogg
