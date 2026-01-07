@@ -14,12 +14,26 @@
 # "percent_decode" must be a string literal, comma delimited list of numbers corresponding to the in_url indexes you want to percent decode.
 [mutator]
 # mutate youtube mix URLs to normal videos
-[mutator.youtube]
+[mutator.youtuberadio]
 in_url = '(https?\:\/\/)?.*?youtu.*\..*\/(.*)\&list.*\&start_radio.*' # regex pattern of URL to change. this example changes youtube.com, youtu.be, m.youtube.com, with http or https, or no protocol prefix as well.
-out_url = 'https:www.youtube.com/|2|' # when the in_url pattern is found, change it to this.
+out_url = 'https://www.youtube.com/|2|' # when the in_url pattern is found, change it to this.
 
 ignore_pattern = '' # patterns that match the in_url pattern to ignore. leave empty '' if you don't want to ignore any patterns.
 percent_decode = '' # indexes to parse percent endcoding before building out_url, leave ampty if you don't want to percent decode anything.
+
+[mutator.youtubechannelat]
+in_url = '(https?\:\/\/)?.*youtu.*\..*\/(\@.*[^/])$'
+out_url = 'https://www.youtube.com/|2|/videos'
+
+ignore_pattern = ''
+percent_decode = ''
+
+[mutator.youtubechannel]
+in_url = '(https?\:\/\/)?.*youtu.*\..*\/channel\/(.*[^/])$'
+out_url = 'https://www.youtube.com/channel/|2|/videos'
+
+ignore_pattern = ''
+percent_decode = ''
  
 # mutate reddit.com URLs to old.reddit.com
 [mutator.reddit]
@@ -41,5 +55,3 @@ in_url = '(https?\:\/\/)?.*?t(witter)?.co.*\/(.*)'
 out_url = 'https://nitter.fdn.fr/|3|'
 ignore_pattern = ''
 percent_decode = '' # indexes to parse percent endcoding before building out_url, leave ampty if you don't want to percent decode anything.
-
-    
