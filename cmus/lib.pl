@@ -9,6 +9,7 @@
 /home/main/audio/lib/single/adel_rumour-has-it.ogg
 /home/main/audio/lib/single/adel_set-fire-to-the-rain.ogg
 /home/main/audio/lib/single/ado0_shut-up.ogg
+/home/main/audio/lib/single/ado0_unravel.opus
 /home/main/audio/lib/single/alyl_peace-of-mind.opus
 /home/main/audio/lib/single/afos_i-ran.ogg
 /home/main/audio/lib/single/aha0_take-on-me.ogg
