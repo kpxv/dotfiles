@@ -1143,6 +1143,7 @@ c.content.prefers_reduced_motion = True
 ##   - allow-from-user-interaction: Allows navigation requests to URLs with unknown schemes that are issued from user-interaction (like a mouse-click), whereas other navigation requests (for example from JavaScript) are suppressed.
 ##   - allow-all: Allows all navigation requests to URLs with unknown schemes.
 # c.content.unknown_url_scheme_policy = 'allow-from-user-interaction'
+config.set('content.unknown_url_scheme_policy', 'allow-all', '*.slack.com')
 
 ## List of user stylesheet filenames to use.
 ## Type: List of File, or File
@@ -2434,6 +2435,8 @@ config.bind(
 )
 config.bind(",ed", "config-edit", mode="normal")
 config.bind("0", "fake-key 0", mode="normal")
+config.bind(",i", "hint images download", mode="normal")
+config.bind("wu", "undo --window", mode="normal")
 
 ## Bindings for caret mode
 # config.bind('$', 'move-to-end-of-line', mode='caret')
