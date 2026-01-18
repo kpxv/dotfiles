@@ -16,6 +16,17 @@
 /home/main/audio/lib/single/aha0_take-on-me-slow.ogg
 /home/main/audio/lib/single/aspl_all-out-of-love.ogg
 /home/main/audio/lib/single/aspl_making-love-out-of-nothing-at-all.ogg
+/home/main/audio/lib/single/alan_all-falls-down.opus
+/home/main/audio/lib/single/alan_alone.opus
+/home/main/audio/lib/single/alan_alone-pt-ii.opus
+/home/main/audio/lib/single/alan_darkside.opus
+/home/main/audio/lib/single/alan_diamond-heart.opus
+/home/main/audio/lib/single/alan_faded.opus
+/home/main/audio/lib/single/alan_ignite.opus
+/home/main/audio/lib/single/alan_sing-me-to-sleep.opus
+/home/main/audio/lib/single/alan_sing-me-to-sleep-jordan-ver.opus
+/home/main/audio/lib/single/alan_the-spectre.opus
+/home/main/audio/lib/single/alan_unity.opus
 /home/main/audio/lib/single/amrt_no-roots.opus
 /home/main/audio/lib/single/amal_one-hell-of-a-team.ogg
 /home/main/audio/lib/single/amdf_chess-board.ogg
@@ -44,6 +55,7 @@
 /home/main/audio/lib/album/aria_nightcore-mix-2021.ogg
 /home/main/audio/lib/single/artm_i-like-the-way-you-kiss-me.ogg
 /home/main/audio/lib/single/asrn_my-jolly-sailor-bold.ogg
+/home/main/audio/lib/single/asto_instant-crush.opus
 /home/main/audio/lib/single/aso0_losing-it.ogg
 /home/main/audio/lib/single/aso0_opus.ogg
 /home/main/audio/lib/single/aso0_sandstorm.ogg
@@ -575,6 +587,7 @@
 /home/main/audio/lib/single/dsny_gaston.opus
 /home/main/audio/lib/single/dsny_genie-in-a-bottle.ogg
 /home/main/audio/lib/single/dsny_good-to-be-bad.ogg
+/home/main/audio/lib/single/dsny_hellfire.opus
 /home/main/audio/lib/single/dsny_how-bad-can-i-be.opus
 /home/main/audio/lib/single/dsny_how-for-ill-go.ogg
 /home/main/audio/lib/single/dsny_if-only.ogg
@@ -742,6 +755,7 @@
 /home/main/audio/lib/single/htrx_your-idol.opus
 /home/main/audio/lib/single/htrx_what-it-sounds-like.opus
 /home/main/audio/lib/single/htrx_score-suite.opus
+/home/main/audio/lib/single/ifh0_make-a-move.opus
 /home/main/audio/lib/single/imdg_amsterdam.ogg
 /home/main/audio/lib/single/imdg_bad-liar.ogg
 /home/main/audio/lib/single/imdg_believer.ogg
@@ -910,6 +924,7 @@
 /home/main/audio/lib/single/gaga_the-edge-of-glory.ogg
 /home/main/audio/lib/single/lafe_ring-frei.ogg
 /home/main/audio/lib/single/lain_aftermath-of-innocence.opus
+/home/main/audio/lib/single/lain_bury-my-heart-beneath-the-steel-and-static.opus
 /home/main/audio/lib/single/lain_duskgazer.opus
 /home/main/audio/lib/single/lain_i-will-set-heaven-on-fire-to-see-you-again.opus
 /home/main/audio/lib/single/lain_rest-your-lips-upon-my-scars.opus
@@ -1332,6 +1347,7 @@
 /home/main/audio/lib/single/s3rl_you-are-mine.ogg
 /home/main/audio/lib/single/scrp_thumbs.opus
 /home/main/audio/lib/single/smfr_luka-luka-night-fever.ogg
+/home/main/audio/lib/single/saph_darkside.opus
 /home/main/audio/lib/single/sara_eyes-on-you.opus
 /home/main/audio/lib/single/sara_poetry-by-dead-men.opus
 /home/main/audio/lib/single/swtn_magical-cure-love-shot.ogg
@@ -1356,6 +1372,8 @@
 /home/main/audio/lib/single/sia0_chandelier.ogg
 /home/main/audio/lib/single/sia0_cheap-thrills.ogg
 /home/main/audio/lib/single/sia0_elastic-heart.ogg
+/home/main/audio/lib/single/shf0_hougejaku.opus
+/home/main/audio/lib/single/shf0_the-birds-lament.opus
 /home/main/audio/lib/single/shnd_royal-flush.ogg
 /home/main/audio/lib/single/sag0_the-sound-of-silence.opus
 /home/main/audio/lib/single/siwl_halos-in-hell.ogg
@@ -1366,6 +1384,7 @@
 /home/main/audio/lib/single/sptl_chasing-cars.ogg
 /home/main/audio/lib/single/sgfy_its-corn.ogg
 /home/main/audio/lib/single/sbva_toss-a-coin-to-your-witcher.opus
+/home/main/audio/lib/single/sprn_3615-bonheur.opus
 /home/main/audio/lib/single/sasl_runaway-train.ogg
 /home/main/audio/lib/single/stnd_its-been-awhile.ogg
 /home/main/audio/lib/single/stnd_outside.ogg
@@ -1556,3 +1575,4 @@
 /home/main/audio/lib/single/yyyp_datte.opus
 /home/main/audio/lib/single/yyyp_leia.ogg
 /home/main/audio/lib/single/zrmk_feel-invincible.ogg
+/home/main/audio/lib/single/zrmk_pretty-little-psycho.opus
