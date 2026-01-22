@@ -60,6 +60,7 @@
 /home/main/audio/lib/single/aso0_opus.ogg
 /home/main/audio/lib/single/aso0_sandstorm.ogg
 /home/main/audio/lib/single/avmx_kings-and-queens.ogg
+/home/main/audio/lib/single/avmx_salt.opus
 /home/main/audio/lib/single/avmx_so-am-i.ogg
 /home/main/audio/lib/single/avmx_sweet-but-psycho.ogg
 /home/main/audio/lib/single/avtr_black-holes.ogg
@@ -1393,7 +1394,12 @@
 /home/main/audio/lib/single/strs_my-demons.ogg
 /home/main/audio/lib/single/snix_commodus-pt-1.opus
 /home/main/audio/lib/single/snix_commodus-pt-2.opus
+/home/main/audio/lib/single/ston_baby.opus
+/home/main/audio/lib/single/ston_bad-romance.opus
 /home/main/audio/lib/single/ston_heat-waves.opus
+/home/main/audio/lib/single/ston_payphone.opus
+/home/main/audio/lib/single/ston_replay.opus
+/home/main/audio/lib/single/ston_sweater-weather.opus
 /home/main/audio/lib/single/stvn_edge-of-seventeen.opus
 /home/main/audio/lib/single/stma_alors-on-danse.ogg
 /home/main/audio/lib/single/stma_carmen.ogg
