@@ -2433,6 +2433,11 @@ config.bind(
     'hint --rapid links spawn --userscript ~/.config/qutebrowser/userscripts/url-mutator/url_mutator.py /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "open -b" {hint-url}',
     mode="normal",
 )
+config.bind(
+    ",;y",
+    'hint links spawn --userscript ~/.config/qutebrowser/userscripts/url-mutator/url_mutator.py /home/main/.config/qutebrowser/userscripts/url-mutator/config.toml "yank inline" {hint-url}',
+    mode="normal",
+)
 config.bind(",ed", "config-edit", mode="normal")
 config.bind("0", "fake-key 0", mode="normal")
 config.bind(",i", "hint images download", mode="normal")
