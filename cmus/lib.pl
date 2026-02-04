@@ -1,3 +1,4 @@
+/home/main/audio/lib/single/_____rockefeller-street.opus
 /home/main/audio/lib/single/24kg_mood.ogg
 /home/main/audio/lib/single/2wei_insomnia.ogg
 /home/main/audio/lib/single/2wei_survivor.ogg
@@ -56,6 +57,7 @@
 /home/main/audio/lib/single/artm_i-like-the-way-you-kiss-me.ogg
 /home/main/audio/lib/single/asrn_my-jolly-sailor-bold.ogg
 /home/main/audio/lib/single/asto_instant-crush.opus
+/home/main/audio/lib/single/asto_save-your-tears.opus
 /home/main/audio/lib/single/aso0_losing-it.ogg
 /home/main/audio/lib/single/aso0_opus.ogg
 /home/main/audio/lib/single/aso0_sandstorm.ogg
@@ -337,6 +339,7 @@
 /home/main/audio/lib/single/ccrp_hun-lovaas-3.opus
 /home/main/audio/lib/single/ccrp_hun-lovaas-4.opus
 /home/main/audio/lib/single/ccrp_hun-lovaas-5.opus
+/home/main/audio/lib/single/carm_caramelldansen.opus
 /home/main/audio/lib/single/crj0_call-me-maybe.ogg
 /home/main/audio/lib/single/csca_everytime-we-touch.opus
 /home/main/audio/lib/single/ccrn_slow-fade.opus
@@ -506,6 +509,8 @@
 /home/main/audio/lib/single/cdp0_song-of-durin.ogg
 /home/main/audio/lib/single/cdp0_when-the-hammer-falls.ogg
 /home/main/audio/lib/single/cdp0_where-theres-a-whip.opus
+/home/main/audio/lib/single/clan_i-hold-you.opus
+/home/main/audio/lib/single/clan_once-again.opus
 /home/main/audio/lib/single/cb00_rockabye.ogg
 /home/main/audio/lib/single/cjmp_bad-apple.ogg
 /home/main/audio/lib/single/cjmp_bad-apple-instrumental.ogg
@@ -594,6 +599,7 @@
 /home/main/audio/lib/single/dsny_if-only.ogg
 /home/main/audio/lib/single/dsny_ill-make-a-man-out-of-you.opus
 /home/main/audio/lib/single/dsny_into-the-unkown.ogg
+/home/main/audio/lib/single/dsny_i-see-the-light.opus
 /home/main/audio/lib/single/dsny_its-goin-down.ogg
 /home/main/audio/lib/single/dsny_kiss-the-girl.opus
 /home/main/audio/lib/single/dsny_let-it-go.ogg
@@ -667,15 +673,19 @@
 /home/main/audio/lib/single/euro_the-final-countdown.ogg
 /home/main/audio/lib/single/eury_sweet-dreams.ogg
 /home/main/audio/lib/single/evns_bring-me-to-life.ogg
+/home/main/audio/lib/single/evan_take-me-to-church.opus
 /home/main/audio/lib/single/fbvl_gravity.opus
 /home/main/audio/lib/single/fllt_brotherhood-of-steel.ogg
 /home/main/audio/lib/single/fob0_centuries.ogg
 /home/main/audio/lib/single/fob0_immortals.ogg
 /home/main/audio/lib/single/fob0_light-em-up.ogg
+/home/main/audio/lib/single/fob0_the-last-of-the-real-ones.opus
 /home/main/audio/lib/single/fob0_the-phoenix.ogg
 /home/main/audio/lib/single/fob0_thnks-fr-th-mmrs.ogg
 /home/main/audio/lib/single/fob0_uma-thurman.ogg
 /home/main/audio/lib/single/fob0_we-didnt-start-the-fire.ogg
+/home/main/audio/lib/single/faun_das-malefitz.opus
+/home/main/audio/lib/single/faun_m4-pt-ii.opus
 /home/main/audio/lib/single/ffdp_i-apologize.ogg
 /home/main/audio/lib/single/ffdp_wrong-side-of-heaven.ogg
 /home/main/audio/lib/single/flwd_landslide.opus
@@ -794,9 +804,11 @@
 /home/main/audio/lib/single/jcsh_i-walk-the-line.ogg
 /home/main/audio/lib/single/jong_arc-raiders-ii.opus
 /home/main/audio/lib/single/jong_dr-feelgood.opus
+/home/main/audio/lib/single/jong_numb.opus
 /home/main/audio/lib/single/jong_revery.opus
 /home/main/audio/lib/single/jong_what-it-sounds-like.opus
 /home/main/audio/lib/single/jong_who-wants-to-live-forever.opus
+/home/main/audio/lib/single/jjhn_gravity-falls-theme.opus
 /home/main/audio/lib/single/jwm0_crazy-train.ogg
 /home/main/audio/lib/single/jrny_dont-stop-believin.ogg
 /home/main/audio/lib/single/jtm0_hungry-for-another-one.opus
@@ -823,6 +835,7 @@
 /home/main/audio/lib/single/kmcn_white-tee.ogg
 /home/main/audio/lib/single/kafu_phony.ogg
 /home/main/audio/lib/single/krki_manemane-psychotropic.ogg
+/home/main/audio/lib/single/kaiz_2-phut-hon.opus
 /home/main/audio/lib/single/knra_brain.ogg
 /home/main/audio/lib/single/knra_dec.ogg
 /home/main/audio/lib/single/knra_demon-lord.ogg
@@ -841,6 +854,7 @@
 /home/main/audio/lib/single/kwst_stronger.ogg
 /home/main/audio/lib/single/kwst_the-glory.ogg
 /home/main/audio/lib/single/kkml_cruel-summer.ogg
+/home/main/audio/lib/single/karu_gravity-falls-theme.opus
 /home/main/audio/lib/single/kat0_affection-addiction.ogg
 /home/main/audio/lib/single/kat0_dizzy-paranoia-girl.ogg
 /home/main/audio/lib/single/kat0_self-proclaimed-angel.ogg
@@ -1012,6 +1026,7 @@
 /home/main/audio/lib/single/lknp_crawling.ogg
 /home/main/audio/lib/single/lknp_faint.ogg
 /home/main/audio/lib/single/lknp_final-masquerade.ogg
+/home/main/audio/lib/single/lknp_in-my-remains.opus
 /home/main/audio/lib/single/lknp_in-the-end.ogg
 /home/main/audio/lib/single/lknp_lost-in-the-echo.ogg
 /home/main/audio/lib/single/lknp_new-divide.ogg
@@ -1162,6 +1177,7 @@
 /home/main/audio/lib/single/holt_loki-green-theme.ogg
 /home/main/audio/lib/single/neil_sweet-caroline.opus
 /home/main/audio/lib/single/nena_99-luftballons.ogg
+/home/main/audio/lib/single/ntre_everybody-talks.opus
 /home/main/audio/lib/single/neru_abstract-nonsense.ogg
 /home/main/audio/lib/single/neru_lost-ones-weeping.ogg
 /home/main/audio/lib/single/neru_tokyo-teddy-bear.ogg
@@ -1394,11 +1410,13 @@
 /home/main/audio/lib/single/strs_my-demons.ogg
 /home/main/audio/lib/single/snix_commodus-pt-1.opus
 /home/main/audio/lib/single/snix_commodus-pt-2.opus
+/home/main/audio/lib/single/ston_adventure-of-a-lifetime.opus
 /home/main/audio/lib/single/ston_baby.opus
 /home/main/audio/lib/single/ston_bad-romance.opus
 /home/main/audio/lib/single/ston_heat-waves.opus
 /home/main/audio/lib/single/ston_payphone.opus
 /home/main/audio/lib/single/ston_replay.opus
+/home/main/audio/lib/single/ston_somebody-that-i-used-to-know.opus
 /home/main/audio/lib/single/ston_sweater-weather.opus
 /home/main/audio/lib/single/stvn_edge-of-seventeen.opus
 /home/main/audio/lib/single/stma_alors-on-danse.ogg
@@ -1580,5 +1598,6 @@
 /home/main/audio/lib/single/ycha_risky-dice.ogg
 /home/main/audio/lib/single/yyyp_datte.opus
 /home/main/audio/lib/single/yyyp_leia.ogg
+/home/main/audio/lib/single/znkn_gravity-falls-theme.opus
 /home/main/audio/lib/single/zrmk_feel-invincible.ogg
 /home/main/audio/lib/single/zrmk_pretty-little-psycho.opus
