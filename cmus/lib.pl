@@ -13,6 +13,7 @@
 /home/main/audio/lib/single/ado0_unravel.opus
 /home/main/audio/lib/single/alyl_peace-of-mind.opus
 /home/main/audio/lib/single/afos_i-ran.ogg
+/home/main/audio/lib/single/atc0_silent-stranger.opus
 /home/main/audio/lib/single/aha0_take-on-me.ogg
 /home/main/audio/lib/single/aha0_take-on-me-slow.ogg
 /home/main/audio/lib/single/aspl_all-out-of-love.ogg
@@ -52,8 +53,6 @@
 /home/main/audio/lib/single/anmz_this-game.ogg
 /home/main/audio/lib/single/anmz_unravel.ogg
 /home/main/audio/lib/single/arth_respect.opus
-/home/main/audio/lib/album/aria_nightcore-gaming-mix-2021.ogg
-/home/main/audio/lib/album/aria_nightcore-mix-2021.ogg
 /home/main/audio/lib/single/artm_i-like-the-way-you-kiss-me.ogg
 /home/main/audio/lib/single/asrn_my-jolly-sailor-bold.ogg
 /home/main/audio/lib/single/asto_instant-crush.opus
@@ -301,6 +300,7 @@
 /home/main/audio/lib/single/brnm_feel-good.ogg
 /home/main/audio/lib/single/brnm_five-years.ogg
 /home/main/audio/lib/single/brnm_from-gods-perspective.ogg
+/home/main/audio/lib/single/brnm_hashtag-deep.opus
 /home/main/audio/lib/single/brnm_microwave-popcorn.ogg
 /home/main/audio/lib/single/brnm_repeat-stuff.ogg
 /home/main/audio/lib/single/brnm_spider.ogg
@@ -413,7 +413,6 @@
 /home/main/audio/lib/single/crcs_crystalline.ogg
 /home/main/audio/lib/single/crcs_dawn.ogg
 /home/main/audio/lib/single/crcs_hello-again.ogg
-/home/main/audio/lib/album/crcs_lucid.ogg
 /home/main/audio/lib/single/crcs_peace.ogg
 /home/main/audio/lib/single/crcs_round-and-round.ogg
 /home/main/audio/lib/single/crcs_ten-thousand-stars.ogg
@@ -632,6 +631,7 @@
 /home/main/audio/lib/single/drko_romeo-to-cinderella.ogg
 /home/main/audio/lib/single/dove_boyfriend.ogg
 /home/main/audio/lib/single/dove_breakfast.ogg
+/home/main/audio/lib/single/dove_do-i-wanna-know.opus
 /home/main/audio/lib/single/dove_sand.ogg
 /home/main/audio/lib/single/dove_too-much.ogg
 /home/main/audio/lib/single/dove_we-go-down-together.ogg
@@ -889,7 +889,6 @@
 /home/main/audio/lib/single/kira_voice.ogg
 /home/main/audio/lib/single/kira_wildcard.ogg
 /home/main/audio/lib/single/kgte_a-thousand-more-stories.ogg
-/home/main/audio/lib/album/kgte_babel-has-fallen.ogg
 /home/main/audio/lib/single/kgte_beloved.ogg
 /home/main/audio/lib/single/kgte_haunted.ogg
 /home/main/audio/lib/single/kgte_help-you-say-goodbye.ogg
@@ -925,7 +924,6 @@
 /home/main/audio/lib/single/koyu_motivational-bass-20.opus
 /home/main/audio/lib/single/krsa_thousands-of-cherry-trees.ogg
 /home/main/audio/lib/single/kcob_and-i-love-her.opus
-/home/main/audio/lib/album/krmi_gaming-playlist-9.ogg
 /home/main/audio/lib/single/kygo_stranger-things.opus
 /home/main/audio/lib/single/kz00_hand-in-hand.ogg
 /home/main/audio/lib/single/gaga_bad-romance.ogg
@@ -1088,6 +1086,8 @@
 /home/main/audio/lib/single/lzzo_truth-hurts.opus
 /home/main/audio/lib/single/lotr_misty-mountains.ogg
 /home/main/audio/lib/single/lotr_where-theres-a-whip.opus
+/home/main/audio/lib/single/lp00_lost-on-you.opus
+/home/main/audio/lib/single/lp00_lost-on-you-radu-sirbu.opus
 /home/main/audio/lib/single/lscg_promentory.opus
 /home/main/audio/lib/single/fnsi_despacito.ogg
 /home/main/audio/lib/single/grhm_7-years.ogg
