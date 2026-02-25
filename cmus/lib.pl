@@ -1,6 +1,8 @@
 /home/main/audio/lib/single/_____rockefeller-street.opus
 /home/main/audio/lib/single/24kg_mood.ogg
 /home/main/audio/lib/single/2wei_insomnia.ogg
+/home/main/audio/lib/single/2wei_in-the-end.opus
+/home/main/audio/lib/single/2wei_mad-world.opus
 /home/main/audio/lib/single/2wei_survivor.ogg
 /home/main/audio/lib/single/2wei_toxic.ogg
 /home/main/audio/lib/single/abba_gimme-gimme-gimme.ogg
@@ -13,7 +15,9 @@
 /home/main/audio/lib/single/ado0_unravel.opus
 /home/main/audio/lib/single/alyl_peace-of-mind.opus
 /home/main/audio/lib/single/afos_i-ran.ogg
+/home/main/audio/lib/single/atc0_lullaby.opus
 /home/main/audio/lib/single/atc0_silent-stranger.opus
+/home/main/audio/lib/single/atc0_voices.opus
 /home/main/audio/lib/single/aha0_take-on-me.ogg
 /home/main/audio/lib/single/aha0_take-on-me-slow.ogg
 /home/main/audio/lib/single/aspl_all-out-of-love.ogg
@@ -289,6 +293,7 @@
 /home/main/audio/lib/single/bkgn_insane.ogg
 /home/main/audio/lib/single/bkgn_jester.ogg
 /home/main/audio/lib/single/bsab_iron-man.opus
+/home/main/audio/lib/single/bkwy_whats-up-danger.opus
 /home/main/audio/lib/single/bswd_hooked-on-a-feeling.opus
 /home/main/audio/lib/single/brnm_1985.ogg
 /home/main/audio/lib/single/brnm_all-eyes-on-me.ogg
@@ -737,6 +742,8 @@
 /home/main/audio/lib/single/hchj_gimme-gimme.ogg
 /home/main/audio/lib/single/hchj_kimagure-merci.ogg
 /home/main/audio/lib/single/hdwy_what-is-love.ogg
+/home/main/audio/lib/single/hala_do-it-differently.opus
+/home/main/audio/lib/single/hala_let-me-fall.opus
 /home/main/audio/lib/single/halo_halo-theme.ogg
 /home/main/audio/lib/single/hzmr_interstellar-main-theme.ogg
 /home/main/audio/lib/single/hzmr_time-orchestra.ogg
@@ -789,6 +796,7 @@
 /home/main/audio/lib/single/ihsk_meltdown.ogg
 /home/main/audio/lib/single/isft_covert.ogg
 /home/main/audio/lib/single/isft_ringtone.ogg
+/home/main/audio/lib/single/iz00_over-the-rainbow.opus
 /home/main/audio/lib/single/iyaz_replay.ogg
 /home/main/audio/lib/single/jnwt_the-hanging-tree.opus
 /home/main/audio/lib/single/soul_dragonborn.opus
@@ -940,6 +948,7 @@
 /home/main/audio/lib/single/lain_bury-my-heart-beneath-the-steel-and-static.opus
 /home/main/audio/lib/single/lain_duskgazer.opus
 /home/main/audio/lib/single/lain_i-will-set-heaven-on-fire-to-see-you-again.opus
+/home/main/audio/lib/single/lain_let-the-memory-of-you-erase-the-darkness.opus
 /home/main/audio/lib/single/lain_rest-your-lips-upon-my-scars.opus
 /home/main/audio/lib/single/lain_the-girl-with-silverine-eyes.opus
 /home/main/audio/lib/single/lain_the-nightwind-calls.opus
@@ -1414,6 +1423,7 @@
 /home/main/audio/lib/single/ston_baby.opus
 /home/main/audio/lib/single/ston_bad-romance.opus
 /home/main/audio/lib/single/ston_heat-waves.opus
+/home/main/audio/lib/single/ston_no-tears-left-to-cry.opus
 /home/main/audio/lib/single/ston_payphone.opus
 /home/main/audio/lib/single/ston_replay.opus
 /home/main/audio/lib/single/ston_somebody-that-i-used-to-know.opus
@@ -1444,6 +1454,7 @@
 /home/main/audio/lib/single/tyt0_close-but-not-there-yet.opus
 /home/main/audio/lib/single/tyt0_jazzy-but-not-too-jazzy.opus
 /home/main/audio/lib/single/swft_anti-hero.opus
+/home/main/audio/lib/single/swft_i-knew-you-were-trouble.opus
 /home/main/audio/lib/single/swft_look-what-you-made-me-do.opus
 /home/main/audio/lib/single/swft_wildest-dreams.opus
 /home/main/audio/lib/single/tff0_everybody-wants-to-rule-the-world.ogg
@@ -1473,6 +1484,7 @@
 /home/main/audio/lib/single/crnb_dreams.ogg
 /home/main/audio/lib/single/crnb_linger.ogg
 /home/main/audio/lib/single/crnb_ode-to-my-family.ogg
+/home/main/audio/lib/single/crnb_still-cant.opus
 /home/main/audio/lib/single/crnb_when-youre-gone.ogg
 /home/main/audio/lib/single/crnb_zombie.ogg
 /home/main/audio/lib/single/cure_friday-im-in-love.opus
