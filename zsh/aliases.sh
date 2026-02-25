@@ -6,6 +6,7 @@ alias -g rename="perl-rename"
 alias -g noerr='2> /dev/null'
 
 alias vexcom="/home/main/.vscode/extensions/vexrobotics.vexcode-0.7.2025041600/resources/tools/vexcom/linux-x64/vexcom"
+alias vsg='vsg -c $CONFIG/vsg-rules.json -of syntastic'
 
 # Command sequences
 

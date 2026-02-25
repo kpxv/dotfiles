@@ -14,6 +14,8 @@ export EDITOR=/usr/bin/nvim
 export VISUAL=/usr/bin/nvim
 export PAGER=/usr/bin/less
 
+export VHDL_LS_CONFIG="$CONFIG/vhdl_ls.toml"
+
 export GRIM_DEFAULT_DIR="/home/main/image/screenshot"
 
 export WINE="/usr/bin/wine"

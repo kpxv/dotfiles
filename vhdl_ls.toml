@@ -1,0 +1,9 @@
+standard = "2008"
+preferred_case = "snake"
+
+[libraries.empty]
+files = []
+
+[lint]
+unused = true
+unnecessary_work_library = true
