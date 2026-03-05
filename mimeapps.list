@@ -29,6 +29,9 @@ text/calendar=userapp-Thunderbird-8BLN62.desktop
 application/x-extension-ics=userapp-Thunderbird-8BLN62.desktop
 x-scheme-handler/webcals=userapp-Thunderbird-8BLN62.desktop
 x-scheme-handler/discord=vesktop.desktop
+x-scheme-handler/discord-1345366770436800533=discord-1345366770436800533.desktop
+x-scheme-handler/sgnl=signal.desktop
+x-scheme-handler/signalcaptcha=signal.desktop
 
 [Added Associations]
 x-scheme-handler/http=org.qutebrowser.qutebrowser.desktop;
