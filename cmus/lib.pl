@@ -1287,6 +1287,7 @@
 /home/main/audio/lib/single/owlc_good-time.ogg
 /home/main/audio/lib/single/owlc_when-can-i-see-you-again.ogg
 /home/main/audio/lib/single/ozon_dragostea-din-tei.ogg
+/home/main/audio/lib/single/ozzy_crazy-train.opus
 /home/main/audio/lib/single/pncd_high-hopes.ogg
 /home/main/audio/lib/single/pncd_house-of-memories.ogg
 /home/main/audio/lib/single/pncd_i-write-sins-not-tragedies.ogg
