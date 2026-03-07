@@ -1122,6 +1122,8 @@
 /home/main/audio/lib/single/mdna_like-a-prayer.ogg
 /home/main/audio/lib/single/mdna_like-a-virgin.ogg
 /home/main/audio/lib/single/mdna_papa-dont-preach.ogg
+/home/main/audio/lib/single/tsai_killer-queen.opus
+/home/main/audio/lib/single/tsai_stacys-brother.opus
 /home/main/audio/lib/single/mrna_bubblegum-bitch.ogg
 /home/main/audio/lib/single/mrna_how-to-be-a-heartbreaker.ogg
 /home/main/audio/lib/single/mrna_oh-no.ogg
