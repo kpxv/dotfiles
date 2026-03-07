@@ -946,6 +946,7 @@
 /home/main/audio/lib/single/lafe_ring-frei.ogg
 /home/main/audio/lib/single/lain_bury-my-heart-beneath-the-steel-and-static.opus
 /home/main/audio/lib/single/lain_let-the-memory-of-you-erase-the-darkness.opus
+/home/main/audio/lib/single/lain_selfannihilator.opus
 /home/main/audio/lib/single/lain_you-shall-not-fade-to-zero.mp3
 /home/main/audio/lib/single/lain_let-sleeping-dolls-lie.mp3
 /home/main/audio/lib/single/lain_peacebringer.mp3
