@@ -54,6 +54,7 @@
 /home/main/audio/lib/single/anmz_my-soul-your-beats.ogg
 /home/main/audio/lib/single/anmz_only-my-railgun.ogg
 /home/main/audio/lib/single/anmz_sincerely.ogg
+/home/main/audio/lib/single/anmz_there-is-a-reason.opus
 /home/main/audio/lib/single/anmz_this-game.ogg
 /home/main/audio/lib/single/anmz_unravel.ogg
 /home/main/audio/lib/single/arth_respect.opus
@@ -816,6 +817,7 @@
 /home/main/audio/lib/single/jong_revery.opus
 /home/main/audio/lib/single/jong_what-it-sounds-like.opus
 /home/main/audio/lib/single/jong_who-wants-to-live-forever.opus
+/home/main/audio/lib/single/jong_witchcraft.m4a
 /home/main/audio/lib/single/jjhn_gravity-falls-theme.opus
 /home/main/audio/lib/single/jwm0_crazy-train.ogg
 /home/main/audio/lib/single/jrny_dont-stop-believin.ogg
@@ -1265,6 +1267,7 @@
 /home/main/audio/lib/single/nexn_waterdrop.flac
 /home/main/audio/lib/single/nexn_we-are-condemned-to-be-free.flac
 /home/main/audio/lib/single/ngnl_my-master-my-lord.ogg
+/home/main/audio/lib/single/ngnl_there-is-a-reason.opus
 /home/main/audio/lib/single/nstm_crab-rave.ogg
 /home/main/audio/lib/single/nsyn_bye-bye-bye.ogg
 /home/main/audio/lib/single/oasi_wonderwall.ogg
@@ -1380,6 +1383,7 @@
 /home/main/audio/lib/single/s3rl_pika-girl.ogg
 /home/main/audio/lib/single/s3rl_r4v3-b0y.ogg
 /home/main/audio/lib/single/s3rl_same-never-changed.opus
+/home/main/audio/lib/single/s3rl_techno-kitty.mp3
 /home/main/audio/lib/single/s3rl_tell-me-what-you-want.ogg
 /home/main/audio/lib/single/s3rl_you-are-mine.ogg
 /home/main/audio/lib/single/scrp_thumbs.opus
@@ -1617,8 +1621,10 @@
 /home/main/audio/lib/single/xxxt_sad.ogg
 /home/main/audio/lib/single/yasi_loki.ogg
 /home/main/audio/lib/single/ysbi_idol.ogg
+/home/main/audio/lib/single/ycha_are-you-a-werewolf.opus
 /home/main/audio/lib/single/ycha_blackjack.ogg
 /home/main/audio/lib/single/ycha_checkmate.ogg
+/home/main/audio/lib/single/ycha_pokerface.opus
 /home/main/audio/lib/single/ycha_risky-dice.ogg
 /home/main/audio/lib/single/yyyp_datte.opus
 /home/main/audio/lib/single/yyyp_leia.ogg
