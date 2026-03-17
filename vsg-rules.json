@@ -4582,7 +4582,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "require_blank_line",
+      "style": "remove_new_line",
       "user_error_message": ""
     },
     "generate_004": {
