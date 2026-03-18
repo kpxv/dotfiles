@@ -1144,7 +1144,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "architecture_016": {
@@ -1154,7 +1154,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "architecture_017": {
@@ -1164,7 +1164,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "architecture_018": {
@@ -1174,7 +1174,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "architecture_019": {
@@ -1228,20 +1228,20 @@
       "user_error_message": ""
     },
     "architecture_025": {
-      "disable": false,
+      "disable": true,
       "fixable": false,
       "indent_size": 4,
       "indent_style": "spaces",
-      "names": ["behv", "struct", "df", "tb"],
+      "names": [],
       "phase": 7,
-      "severity": "Warning",
+      "severity": "Error",
       "user_error_message": ""
     },
     "architecture_026": {
-      "blank_line_ends_group": "no",
+      "blank_line_ends_group": "yes",
       "case_control_statements_ends_group": "no",
       "comment_line_ends_group": "yes",
-      "compact_alignment": "no",
+      "compact_alignment": "yes",
       "disable": false,
       "fixable": true,
       "if_control_statements_ends_group": "no",
@@ -1256,7 +1256,7 @@
     "architecture_027": {
       "blank_line_ends_group": "yes",
       "comment_line_ends_group": "yes",
-      "compact_alignment": "no",
+      "compact_alignment": "yes",
       "disable": false,
       "fixable": true,
       "include_lines_without_comments": "no",
@@ -1278,10 +1278,10 @@
       "user_error_message": ""
     },
     "architecture_029": {
-      "blank_line_ends_group": "no",
+      "blank_line_ends_group": "yes",
       "case_control_statements_ends_group": "no",
       "comment_line_ends_group": "yes",
-      "compact_alignment": "no",
+      "compact_alignment": "yes",
       "disable": false,
       "fixable": true,
       "if_control_statements_ends_group": "no",
@@ -1343,10 +1343,10 @@
       "user_error_message": ""
     },
     "architecture_400": {
-      "blank_line_ends_group": "no",
+      "blank_line_ends_group": "yes",
       "case_control_statements_ends_group": "no",
       "comment_line_ends_group": "yes",
-      "compact_alignment": "no",
+      "compact_alignment": "yes",
       "disable": false,
       "fixable": true,
       "if_control_statements_ends_group": "no",
@@ -1769,7 +1769,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "block_202": {
@@ -1779,7 +1779,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "block_203": {
@@ -1789,7 +1789,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "block_204": {
@@ -1799,7 +1799,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "block_205": {
@@ -1855,10 +1855,10 @@
       "user_error_message": ""
     },
     "block_401": {
-      "blank_line_ends_group": "no",
+      "blank_line_ends_group": "yes",
       "case_control_statements_ends_group": "no",
       "comment_line_ends_group": "yes",
-      "compact_alignment": "no",
+      "compact_alignment": "yes",
       "disable": false,
       "fixable": true,
       "if_control_statements_ends_group": "no",
@@ -2110,7 +2110,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "case_010": {
@@ -2217,7 +2217,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "case_201": {
@@ -2412,7 +2412,7 @@
       "user_error_message": ""
     },
     "component_003": {
-      "disable": true,
+      "disable": false,
       "fixable": true,
       "indent_size": 4,
       "indent_style": "spaces",
@@ -2561,7 +2561,7 @@
       "user_error_message": ""
     },
     "component_018": {
-      "disable": true,
+      "disable": false,
       "fixable": true,
       "indent_size": 4,
       "indent_style": "spaces",
@@ -4582,7 +4582,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "remove_new_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "generate_004": {
@@ -5473,7 +5473,7 @@
       "user_error_message": ""
     },
     "if_030": {
-      "disable": true,
+      "disable": false,
       "fixable": true,
       "indent_size": 4,
       "indent_style": "spaces",
@@ -5483,7 +5483,7 @@
       "user_error_message": ""
     },
     "if_031": {
-      "disable": true,
+      "disable": false,
       "fixable": true,
       "indent_size": 4,
       "indent_style": "spaces",
@@ -5609,7 +5609,7 @@
       "user_error_message": ""
     },
     "instantiation_004": {
-      "disable": true,
+      "disable": false,
       "fixable": true,
       "indent_size": 4,
       "indent_style": "spaces",
@@ -5758,7 +5758,7 @@
       "user_error_message": ""
     },
     "instantiation_034": {
-      "disable": true,
+      "disable": false,
       "fixable": false,
       "indent_size": 4,
       "indent_style": "spaces",
@@ -6000,7 +6000,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "library_004": {
@@ -6231,7 +6231,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "loop_statement_202": {
@@ -6241,7 +6241,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "loop_statement_203": {
@@ -6570,7 +6570,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "package_012": {
@@ -6580,7 +6580,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "package_013": {
@@ -6777,7 +6777,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "package_body_202": {
@@ -6787,7 +6787,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "package_body_203": {
@@ -7933,7 +7933,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "procedure_401": {
@@ -8329,7 +8329,7 @@
       "user_error_message": ""
     },
     "process_011": {
-      "disable": true,
+      "disable": false,
       "fixable": true,
       "indent_size": 4,
       "indent_style": "spaces",
@@ -8384,7 +8384,7 @@
       "indent_size": 4,
       "indent_style": "spaces",
       "phase": 1,
-      "severity": "Warning",
+      "severity": "Error",
       "user_error_message": ""
     },
     "process_017": {
@@ -8408,7 +8408,7 @@
       "indent_size": 4,
       "indent_style": "spaces",
       "phase": 1,
-      "severity": "Warning",
+      "severity": "Error",
       "user_error_message": ""
     },
     "process_019": {
@@ -8453,7 +8453,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "process_023": {
@@ -8463,7 +8463,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "process_024": {
@@ -8493,7 +8493,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "process_027": {
@@ -8503,7 +8503,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "process_028": {
@@ -9547,7 +9547,7 @@
       "indent_size": 4,
       "indent_style": "spaces",
       "phase": 1,
-      "severity": "Warning",
+      "severity": "Error",
       "user_error_message": ""
     },
     "signal_008": {
@@ -9688,7 +9688,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "subprogram_body_202": {
@@ -9698,7 +9698,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "subprogram_body_203": {
@@ -9708,7 +9708,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "subprogram_body_204": {
@@ -9718,7 +9718,7 @@
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "subprogram_body_205": {
@@ -10156,23 +10156,23 @@
       "user_error_message": ""
     },
     "type_010": {
-      "disable": true,
+      "disable": false,
       "fixable": true,
       "indent_size": 4,
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "type_011": {
-      "disable": true,
+      "disable": false,
       "fixable": true,
       "indent_size": 4,
       "indent_style": "spaces",
       "phase": 3,
       "severity": "Error",
-      "style": "no_blank_line",
+      "style": "require_blank_line",
       "user_error_message": ""
     },
     "type_012": {
