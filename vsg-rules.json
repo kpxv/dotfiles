@@ -5762,7 +5762,7 @@
       "fixable": false,
       "indent_size": 4,
       "indent_style": "spaces",
-      "method": "component",
+      "method": "entity",
       "phase": 1,
       "severity": "Error",
       "user_error_message": ""
