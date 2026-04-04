@@ -8,6 +8,15 @@ alias -g noerr='2> /dev/null'
 alias vexcom="/home/main/.vscode/extensions/vexrobotics.vexcode-0.7.2025041600/resources/tools/vexcom/linux-x64/vexcom"
 alias vsg='vsg -c $CONFIG/vsg-rules.json -of syntastic'
 
+# arm-none-eabi shortener
+alias arm-as="arm-none-eabi-as"
+alias arm-objcopy="arm-none-eabi-objcopy"
+alias arm-objdump="arm-none-eabi-objdump"
+alias arm-ld="arm-none-eabi-ld"
+alias arm-readelf="arm-none-eabi-readelf"
+alias arm-strip="arm-none-eabi-strip"
+alias arm-nm="arm-none-eabi-nm"
+
 # Command sequences
 
 alias mt-crypt="sudo cryptsetup open /dev/sda3 ncrypt && sudo mount /dev/mapper/ncrypt ~/ncrypt"
