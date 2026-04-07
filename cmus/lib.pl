@@ -356,6 +356,7 @@
 /home/main/audio/lib/single/ct00_mighty-wings.opus
 /home/main/audio/lib/single/cher_believe.ogg
 /home/main/audio/lib/single/chgo_youre-the-inspiration.opus
+/home/main/audio/lib/single/chi2_just-be-watching-you.opus
 /home/main/audio/lib/single/cisk_somebodys-crying.opus
 /home/main/audio/lib/single/cisk_wicked-game.opus
 /home/main/audio/lib/single/cgrm_just-a-dream.ogg
