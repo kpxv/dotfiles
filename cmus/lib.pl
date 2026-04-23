@@ -680,6 +680,7 @@
 /home/main/audio/lib/single/emnm_venom.ogg
 /home/main/audio/lib/single/emnm_when-im-gone.ogg
 /home/main/audio/lib/single/emnm_without-me.ogg
+/home/main/audio/lib/single/epia_flop-era.opus
 /home/main/audio/lib/single/escl_lux-aeterna-epic.ogg
 /home/main/audio/lib/single/euro_the-final-countdown.ogg
 /home/main/audio/lib/single/eury_sweet-dreams.ogg
@@ -1567,6 +1568,7 @@
 /home/main/audio/lib/single/s3rl_music-is-my-savior.opus
 /home/main/audio/lib/single/s3rl_nightcore-this.ogg
 /home/main/audio/lib/single/s3rl_pika-girl.ogg
+/home/main/audio/lib/single/s3rl_play-it-loud.opus
 /home/main/audio/lib/single/s3rl_r4v3-b0y.ogg
 /home/main/audio/lib/single/s3rl_same-never-changed.opus
 /home/main/audio/lib/single/s3rl_techno-kitty.mp3
