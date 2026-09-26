@@ -103,7 +103,7 @@ set passwd=
 set pause_on_output_change=false
 set pl_env_vars=
 set pl_sort=
-set play_library=true
+set play_library=false
 set play_sorted=true
 set progress_bar=line
 set repeat=true
@@ -230,7 +230,9 @@ fset 90s=date>=1990&date<2000
 fset classical=genre="Classical"
 fset missing-tag=!stream&(artist=""|album=""|title=""|tracknumber=-1|date=-1)
 fset mp3=filename="*.mp3"
+fset nolark=filename!="*lark_*"
 fset nolort= filename!="*lort*"
+fset none=nolark&nolort
 fset ogg=filename="*.ogg"
 fset ogg-or-mp3=ogg|mp3
 fset unheard=play_count=0
