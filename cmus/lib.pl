@@ -1841,6 +1841,7 @@
 /home/main/audio/lib/single/beat_here-comes-the-sun.opus
 /home/main/audio/lib/single/beat_i-wanna-hold-your-hand.opus
 /home/main/audio/lib/single/beat_ob-la-di-ob-la-da.opus
+/home/main/audio/lib/single/beat_while-my-guitar-gently-weeps.opus
 /home/main/audio/lib/single/csmk_something-just-like-this.ogg
 /home/main/audio/lib/single/chlk_a-songus-amongus.ogg
 /home/main/audio/lib/single/chlk_bowsette.ogg
